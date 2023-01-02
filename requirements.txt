@@ -2,3 +2,4 @@ selectorlib
 mangum
 fastapi
 requests
+gunicorn
